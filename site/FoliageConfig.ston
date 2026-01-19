@@ -1,5 +1,5 @@
 Foliage {
-	#baseUri : 'http://tintin.github.io',
+	#baseUri : 'http://gocko.github.io',
 	#webRootPrefix : '/FoliageSample',
 	#blogs: [ 
 		'news': 'News'
