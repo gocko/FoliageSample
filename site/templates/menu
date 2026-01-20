@@ -2,7 +2,7 @@
 	<div id="toc">
 		<div id="tocItem"><a href="{{webRootPrefix}}/index.html">Home</a>
 		</div>
-		<div id="tocItem"><a href="{{{webRootPrefix}}}/publications.html">Publications</a>
+		<div id="tocItem"><a href="{{{webRootPrefix}}}/cfp.html">Call for Papers</a>
 		</div>	
 		<div id="tocItem"><a href="{{{webRootPrefix}}}/news/index.html">News</a>
 		</div>
